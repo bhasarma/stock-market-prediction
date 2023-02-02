@@ -1,6 +1,6 @@
 # Stock Market Prediction
 
-This repository contains the capstone project-2 carried out as part of online course [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) designed and instructed by [Alexey Grigorev](https://github.com/alexeygrigorev) and his team from [DataTalks.Club](https://datatalks.club/). This project was 2 weeks long and peer-reviewed. Idea of this project is to implement everything that we have learnt in 11 weeks of courseworks.
+This repository contains the notebook, code and documentation related to this project **Stock Market Prediction**. Idea of this project is to continue my learning after two previous projects on [Predicting Term Deposit](https://github.com/bhasarma/mlcoursezoom-camp/tree/main/WK08-09-midterm-project)(tabular data) and [kitchenware classifier](https://github.com/bhasarma/kitchenware-classification-project) as part of the [Machine Learning Zoomcamp Course](https://github.com/bhasarma/mlcoursezoom-camp).
 
 ## Table of Contents:
 1. Business Problem Description
@@ -35,10 +35,6 @@ Below is a description of the key files:
 |    **README.md**   |  The file you are reading now, meant for the user as an introduction to help navigating the project| 
 |    **notebook.ipynb**   |  Jupyter notebook file where EDA, training models, parameter tuning etc. are done during development in Saturn Cloud|
 |    **train.py**   |  python script converted from `notebook.ipynb` |
-|    **xception_v4_2_16_0.965.h5**   |  Best performing model saved from `notebook.ipynb` |
-|    **kitchenware-model.h5**   |  Same model as above, just downloaded from github and name changed |
-|    **kitchenware-model.tflite**   |  tensorflow lite version of above tensor flow model |
-|    **lamda_function.py**   |  script containing lambda function |
 
 ## 5. Development System
 
